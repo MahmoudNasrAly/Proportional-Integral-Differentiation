@@ -63,8 +63,8 @@ python --version
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/MahmoudNasrAly/Proportional-Integral-Differentiation
+cd Proportional-Integral-Differentiation
 ```
 
 ### **2. Install Dependencies**
